@@ -44,3 +44,11 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 - **OpenAI GPT-4** – Language model for natural responses
 - **Streamlit** – Lightweight chatbot frontend
 - **HuggingFace Embeddings** – For converting text to vector form
+
+---
+
+## **Architecture Diagram**
+
+![AI-Powered FitBot Architecture](https://github.com/shravangajula/FitBot/blob/main/diagrams/FitBot2.jpeg)
+
+---
