@@ -15,7 +15,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-005BFF?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logoColor=white)
 ![PyPDF](https://img.shields.io/badge/PyPDF-8C001A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8C001A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-#008000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
 ### Auxiliary Technologies
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
