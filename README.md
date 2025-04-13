@@ -20,7 +20,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 ### Auxiliary Technologies
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-2DFFC6?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-00736C?style=for-the-badge)
 
 ---
 
