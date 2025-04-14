@@ -80,9 +80,35 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 - Generates detailed, conversational responses tailored to the user’s input.
 
 ---
+
 ## **2. Clone the Repository**
 
 1. Open your terminal or command prompt.
 2. Clone the repository:
    ```bash
    git clone https://github.com/shravangajula/FitBot.git
+
+---
+
+## **3. Install Dependencies**
+
+---
+
+## **4. Configure API Keys**
+
+---
+
+### **5. penAI API Key**
+- Add your OpenAI API key in the `.streamlit/secrets.toml` file:
+   ```toml
+   OpenAI_Key = "your_openai_api_key"
+
+---
+
+## **6. Run the Application**
+
+### **Start the Streamlit App**
+Run the Streamlit application:
+   streamlit run app.py
+
+   Open the provided local or network URL in your browser (e.g., http://localhost:8501/).
