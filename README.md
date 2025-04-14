@@ -94,11 +94,11 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## ** Configure API Keys**
+## **Configure API Keys**
 
 ---
 
-### ** API Key**
+### **API Key**
 - Add your OpenAI API key in the file:
    ```
    OpenAI_Key = "your_openai_api_key"
@@ -106,7 +106,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## ** Run the Application**
+## **Run the Application**
 
 ### **Start the Streamlit App**
 Run the Streamlit application:
