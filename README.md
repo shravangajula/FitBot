@@ -81,7 +81,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## ** Clone the Repository**
+## **Clone the Repository**
 
 1. Open your terminal or command prompt.
 2. Clone the repository:
@@ -90,7 +90,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## ** Install Dependencies**
+## **Install Dependencies**
 
 ---
 
