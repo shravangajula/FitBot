@@ -98,10 +98,11 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-### **5. penAI API Key**
-- Add your OpenAI API key in the `.streamlit/secrets.toml` file:
-   ```toml
+### **5. API Key**
+- Add your OpenAI API key in the file:
+   ```
    OpenAI_Key = "your_openai_api_key"
+   model_name='all-MiniLM-L12-v2'
 
 ---
 
