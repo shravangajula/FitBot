@@ -81,7 +81,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## **2. Clone the Repository**
+## ** Clone the Repository**
 
 1. Open your terminal or command prompt.
 2. Clone the repository:
@@ -90,15 +90,15 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## **3. Install Dependencies**
+## ** Install Dependencies**
 
 ---
 
-## **4. Configure API Keys**
+## ** Configure API Keys**
 
 ---
 
-### **5. API Key**
+### ** API Key**
 - Add your OpenAI API key in the file:
    ```
    OpenAI_Key = "your_openai_api_key"
@@ -106,7 +106,7 @@ This project leverages cutting-edge NLP tools and vector databases to minimize h
 
 ---
 
-## **6. Run the Application**
+## ** Run the Application**
 
 ### **Start the Streamlit App**
 Run the Streamlit application:
