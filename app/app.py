@@ -11,7 +11,7 @@ from langchain_community.llms import HuggingFaceHub
 # Setup credentials dictionary
 creds = {
     'apikey': 'NOT MENTIONED HERE',
-    'url': 'https://api-inference.huggingface.co/models/gpt4'
+    'url': 'https://api-inference.huggingface.co/models/gpt2.5'
 }
 
 # Set the Hugging Face API token in the environment
